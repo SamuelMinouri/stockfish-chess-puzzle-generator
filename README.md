@@ -1,4 +1,4 @@
-```
+
 # ♟️ Stockfish Chess Puzzle Generator  
 
 A fully automated **chess puzzle generator** built in Python, powered by the **Stockfish engine**.  
