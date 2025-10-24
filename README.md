@@ -190,7 +190,7 @@ See the full license text in `LICENSE`.
 
 * **Engine Power:** Stockfish — world’s strongest open-source chess engine
 * **Python Interface:** python-chess library
-* **Development:** by **Majid Vaghari (@sakhaleta)** — combining AI and automation for creative puzzle generation
+* **Development:** by **SamuelMinouri (@samuelminouri)** — combining AI and automation for creative puzzle generation
 
 ---
 
